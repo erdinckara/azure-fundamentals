@@ -1,1 +1,1 @@
-# azure-fundamentals
+# azure-fundamentals live session
